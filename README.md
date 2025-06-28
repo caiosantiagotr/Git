@@ -1,5 +1,5 @@
 # Ola, caio!
-primeiro repositorio git
+primeiro repositorio git (CURSO EM VIDEO)
 
 repositorio criado no dia 28/06/25
 
