@@ -1,4 +1,3 @@
-🖥 # Cômodos de git
 # Guia Completo do Git
 
 ## O que é Git?
